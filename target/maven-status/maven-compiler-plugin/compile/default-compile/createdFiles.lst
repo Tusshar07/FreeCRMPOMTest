@@ -1,0 +1,10 @@
+com\demo\qa\pages\ContactsPage.class
+com\demo\qa\pages\DealsPage.class
+com\demo\qa\pages\HomePage.class
+com\demo\qa\util\TestUtil.class
+com\demo\qa\base\TestBase.class
+com\demo\qa\pages\LoginPage.class
+com\demo\qa\pages\SignUpPage.class
+com\demo\qa\util\WebEventListener.class
+com\demo\qa\ExtentReportListener\ExtentReporterNG.class
+com\demo\qa\pages\TasksPage.class

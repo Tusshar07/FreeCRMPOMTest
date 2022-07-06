@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="POMTest Automation">
+  <test thread-count="5" name="Free CRM Application Test Ccases">
+    <classes>
+      <class name="com.demo.qa.testcases.HomePageTest"/>
+      <class name="com.demo.qa.testcases.LoginPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
