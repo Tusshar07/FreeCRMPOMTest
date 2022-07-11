@@ -1,0 +1,36 @@
+2022-07-11 17:44:07,181  INFO [main] LoginPageTest:67 - ****************************** Starting test cases execution  *****************************************
+2022-07-11 17:44:14,203  INFO [main] LoginPageTest:69 - launching chrome broswer
+2022-07-11 17:44:14,205  INFO [main] LoginPageTest:70 - entering application URL
+2022-07-11 17:44:14,208  WARN [main] LoginPageTest:71 - Hey this just a warning message
+2022-07-11 17:44:14,210 FATAL [main] LoginPageTest:72 - hey this is just fatal error message
+2022-07-11 17:44:14,219 DEBUG [main] LoginPageTest:73 - this is debug message
+2022-07-11 17:44:14,308  INFO [main] LoginPageTest:79 - ****************************** starting test case *****************************************
+2022-07-11 17:44:14,309  INFO [main] LoginPageTest:80 - ****************************** loginPageTitleTest *****************************************
+2022-07-11 17:44:14,375  INFO [main] LoginPageTest:83 - login page title is--->Free CRM software for customer relationship management, sales, marketing campaigns and support.
+2022-07-11 17:44:14,379  INFO [main] LoginPageTest:85 - ****************************** ending test case *****************************************
+2022-07-11 17:44:14,380  INFO [main] LoginPageTest:86 - ****************************** loginPageTitleTest *****************************************
+2022-07-11 17:44:14,712  INFO [main] LoginPageTest:123 - ****************************** Browser is closed *****************************************
+2022-07-11 17:44:14,716  INFO [main] LoginPageTest:67 - ****************************** Starting test cases execution  *****************************************
+2022-07-11 17:44:19,464  INFO [main] LoginPageTest:69 - launching chrome broswer
+2022-07-11 17:44:19,467  INFO [main] LoginPageTest:70 - entering application URL
+2022-07-11 17:44:19,467  WARN [main] LoginPageTest:71 - Hey this just a warning message
+2022-07-11 17:44:19,469 FATAL [main] LoginPageTest:72 - hey this is just fatal error message
+2022-07-11 17:44:19,470 DEBUG [main] LoginPageTest:73 - this is debug message
+2022-07-11 17:44:19,859  INFO [main] LoginPageTest:123 - ****************************** Browser is closed *****************************************
+2022-07-11 17:44:19,860  INFO [main] LoginPageTest:67 - ****************************** Starting test cases execution  *****************************************
+2022-07-11 17:44:24,666  INFO [main] LoginPageTest:69 - launching chrome broswer
+2022-07-11 17:44:24,669  INFO [main] LoginPageTest:70 - entering application URL
+2022-07-11 17:44:24,670  WARN [main] LoginPageTest:71 - Hey this just a warning message
+2022-07-11 17:44:24,671 FATAL [main] LoginPageTest:72 - hey this is just fatal error message
+2022-07-11 17:44:24,672 DEBUG [main] LoginPageTest:73 - this is debug message
+2022-07-11 17:44:30,851  INFO [main] LoginPageTest:123 - ****************************** Browser is closed *****************************************
+2022-07-11 17:44:30,880 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-07-11 17:44:30,882 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-07-11 17:44:30,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-07-11 17:44:30,885 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-07-11 17:44:30,886 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Tushar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-07-11 17:44:31,134 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-07-11 17:44:31,136 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-07-11 17:44:31,136 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-07-11 17:44:31,138 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-07-11 17:44:31,138 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Tushar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -7,7 +7,7 @@
 			class-name="com.demo.qa.ExtentReportListener.ExtentReporterNG" />
 	</listeners>
 
-	<test thread-count="5" name="Free CRM Application Test Ccases">
+	<test name="Free CRM Application Test Cases">
 		<classes>
 			<class name="com.demo.qa.testcases.ContactsPageTest" />
 			<class name="com.demo.qa.testcases.HomePageTest" />

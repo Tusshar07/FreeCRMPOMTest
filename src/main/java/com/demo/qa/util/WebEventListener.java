@@ -12,11 +12,11 @@ import com.demo.qa.base.TestBase;
 
 public class WebEventListener extends TestBase implements WebDriverListener {
 	
-	public void beforeNavigateTo(String url, WebDriver driver) {
+	public void beforeGet(String url, WebDriver driver) {
 		System.out.println("Before navigating to: '" + url + "'");
 	}
 
-	public void afterNavigateTo(String url, WebDriver driver) {
+	public void afterGet(String url, WebDriver driver) {
 		System.out.println("Navigated to:'" + url + "'");
 	}
 
@@ -147,6 +147,5 @@ public class WebEventListener extends TestBase implements WebDriverListener {
 		// TODO Auto-generated method stub
 		
 	}
-
 
 }
